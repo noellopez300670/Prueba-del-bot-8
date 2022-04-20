@@ -1,4 +1,4 @@
 
 ## Deploy in One Click
 
-[![Deploy to Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy?repository=https://github.com/kaildavid/bot-de-Javi-Martinez)
+[![Deploy to Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy?repository=https://github.com/noellopez300670/Prueba-del-bot-8)
